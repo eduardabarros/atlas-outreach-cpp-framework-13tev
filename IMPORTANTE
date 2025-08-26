@@ -1,0 +1,8 @@
+Para acessar as análises do bóson W, ao acessar o repositório "atlas-outreach-cpp-framework-13tev", é necessário seguir os seguintes passos:
+
+Clicar em:    > "Analyses"
+              > Branch "Master"
+              > Tags "10fb-legacy"
+              > Analise: "WBosonAnalysis"
+
+Obs.: Todas as opções ("Analyses", "Master", "10fb-legacy", "WBosonAnalysis") se encontram do lado esquerdo da tela
